@@ -1,0 +1,74 @@
+button:hover { background-color: red;
+    cursor: pointer;
+    border: 1px #0f2f solid;
+    border-radius: 10px;
+    transition: 0.5s;}
+.navbar-nav li a {
+    color:red;
+}
+.navbar-nav li a:hover{
+    color:red;
+
+
+}
+.pro-name{
+    padding-left:50% ;
+
+
+
+}
+/*.text1{*/
+/*    margin-left:700px;*/
+/*    margin-top:250px;*/
+
+
+
+/*}*/
+.text3{
+    margin-left:700px ;
+    margin-top:300px;
+}
+.text4{
+    margin-left:700px ;
+}
+.text5{
+    margin-left:700px ;
+}
+.text6{ margin-left:700px ;
+padding:25px;
+}
+.text7{
+   margin-left: 700px;
+
+}
+.text8{
+    margin-left: 700px;
+}
+.text9{
+    margin-left: 450px;
+}
+.text10{
+    background-color: antiquewhite;
+}
+.text11{
+    margin-top: 40px;
+}
+.text12{
+    margin-top:40px;
+}
+.text13{
+    text-decoration-color: lemonchiffon;
+}
+
+
+
+
+
+
+
+#banner{
+    background-image: url("banner.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 90vh;
+}
